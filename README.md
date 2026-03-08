@@ -2,7 +2,7 @@
 
 A personal finance tracker built as a frontend developer evaluation assessment. Live, minimal, and intentionally designed.
 
-**Live Demo:** [ledger.vercel.app](https://ledger.vercel.app) *(update after deploy)*
+**Live Demo:** [ledger finance](https://ledger-nu-ruby.vercel.app/)
 **Built with:** React 18 + TypeScript + Vite, Recharts for charts, Tailwind CSS
 
 ---
